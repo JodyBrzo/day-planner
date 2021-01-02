@@ -1,2 +1,2 @@
 # day-planner
-Schedule daily events
+A simple calendar app for scheduling your work day
