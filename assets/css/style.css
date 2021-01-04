@@ -40,6 +40,7 @@ textarea{
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
+  text-align: left;
 }
 
 .past {
@@ -65,7 +66,12 @@ textarea{
   color: white;
 }
 
-.saveBtn i:hover {
+/* .saveBtn i:hover {
+  font-size: 20px;
+  transition: all .3s ease-in-out;
+} */
+
+.saveBtn:hover {
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
