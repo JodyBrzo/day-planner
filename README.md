@@ -7,7 +7,7 @@ A simple calendar app for scheduling your work day.  Add or delete your tasks in
 
 
 # Mock-up
-[day-planner](assets/images/mock-up.gif)
+![day-planner](assets/images/mock-up.gif)
 
 
 ## Why I made this project
