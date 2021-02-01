@@ -5,6 +5,8 @@ A simple calendar app for scheduling your work day.  Add or delete your tasks in
 # Link to live site
 [day-planner](https://jodybrzo.github.io/day-planner/index.html)
 
+# Technologies Used
+JavaScript 63.2%   HTML 18.8%   CSS 18.0%
 
 # Mock-up
 ![day-planner](assets/images/mock-up.gif)
